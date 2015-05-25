@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17690112-3">
+               <interp inst="t17690112-3" type="collection" value="BAILEY"></interp>
+               <interp inst="t17690112-3" type="year" value="1769"></interp>
+               <interp inst="t17690112-3" type="uri" value="sessionsPapers/17690112"></interp>
+               <interp inst="t17690112-3" type="date" value="17690112"></interp>
+               <join result="criminalCharge" id="t17690112-3-off10-c41" targOrder="Y" targets="t17690112-3-defend46 t17690112-3-off10 t17690112-3-verdict14"></join>
+         
+               <p>82. (M.) 
+               <persName id="t17690112-3-defend46" type="defendantName">
+                  Jonathan 
+                  Hall 
+               <interp inst="t17690112-3-defend46" type="surname" value="Hall"></interp>
+                     <interp inst="t17690112-3-defend46" type="given" value="Jonathan"></interp>
+                     <interp inst="t17690112-3-defend46" type="gender" value="male"></interp>
+                  </persName>
+             was indicted for <rs id="t17690112-3-off10" type="offenceDescription">
+                     <interp inst="t17690112-3-off10" type="offenceCategory" value="deception"></interp>
+                     <interp inst="t17690112-3-off10" type="offenceSubcategory" value="forgery"></interp>
+               falsely making and forging a certain order for the payment of money, with the name 
+                     <persName id="t17690112-3-person47">
+                        John 
+                        Smith 
+                     <interp inst="t17690112-3-person47" type="surname" value="Smith"></interp>
+                        <interp inst="t17690112-3-person47" type="given" value="John"></interp>
+                        <interp inst="t17690112-3-person47" type="gender" value="male"></interp>
+                     </persName>
+                  
+               
+                  </rs> subscribed thereto, directed to Mess. Fuller, Baker, and Halford, for the payment of money, to this purport:</p>
+               <p>"12th of Oct. 1768. Pay</p>
+               <p>"to Mr. J. Hall, or bearer, 18 l. 18 s. John</p>
+               <p>"Smith." And for uttering the same, with intent to defraud 
+               
+                  <persName id="t17690112-3-victim49" type="victimName">
+                     John 
+                     Barbe 
+                  <interp inst="t17690112-3-victim49" type="surname" value="Barbe"></interp>
+                     <interp inst="t17690112-3-victim49" type="given" value="John"></interp>
+                     <interp inst="t17690112-3-victim49" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17690112-3-off10 t17690112-3-victim49"></join>
+                  </persName>
+                
+            , <rs id="t17690112-3-cd11" type="crimeDate">October 17</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17690112-3-off10 t17690112-3-cd11"></join>. *</p>
+               <p>
+            
+                  <persName id="t17690112-3-person50">
+                  John 
+                  Barbe 
+               <interp inst="t17690112-3-person50" type="surname" value="Barbe"></interp>
+                     <interp inst="t17690112-3-person50" type="given" value="John"></interp>
+                     <interp inst="t17690112-3-person50" type="gender" value="male"></interp>
+                  </persName>
+            . I am a <rs id="t17690112-3-viclabel12" type="occupation">working-silversmith</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17690112-3-victim49 t17690112-3-viclabel12"></join>, and live in <placeName id="t17690112-3-crimeloc13">St. Giles's in the Fields</placeName>
+                  <interp inst="t17690112-3-crimeloc13" type="placeName" value="St. Giles's in the Fields"></interp>
+                  <interp inst="t17690112-3-crimeloc13" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17690112-3-off10 t17690112-3-crimeloc13"></join>. On the 17th of October last, the prisoner came to me, and bargained for a couple of silver sauce-boats, and a laddle. I told him, They were not fit to deliver, I must clean them up. He said, It was no matter, they were going into the country. He said, He was going to Soho-Square, and desired me to make a bill against he came back. I said, In what name? He said, In the name of John Hall. When he came back, I delivered them to him, and he delivered me a draft upon Fuller and Co. for 18 l. 18 s.</p>
+               <p>
+            
+                  <persName id="t17690112-3-person51">
+                  John 
+                  Vaughn 
+               <interp inst="t17690112-3-person51" type="surname" value="Vaughn"></interp>
+                     <interp inst="t17690112-3-person51" type="given" value="John"></interp>
+                     <interp inst="t17690112-3-person51" type="gender" value="male"></interp>
+                  </persName>
+            . I am clerk to Mess. Fuller, Baker, and Halford. I have the draft here. I received it of Mr. Barbe, about the 17th of October; he presented it to me for payment. (Producing it.) I told him I believed it was a forgery, and asked him how he came by it. He told me, he received it in payment, and had given some change out of it. I compared it<xptr type="pageFacsimile" doc="176901120004"></xptr> with the hand-writings of two persons, named 
+               <persName id="t17690112-3-person52">
+                  John 
+                  Smith 
+               <interp inst="t17690112-3-person52" type="surname" value="Smith"></interp>
+                     <interp inst="t17690112-3-person52" type="given" value="John"></interp>
+                     <interp inst="t17690112-3-person52" type="gender" value="male"></interp>
+                  </persName>
+            , the only two of that name that keep cash at our house; I thought there was a material difference, and I refused payment, and returned it again to Mr. Barbe, and Mr. Halford, one of the partners, went with him to a gentleman to know his character. Mr. Halford brought the bill back again, and I put the initial letters of my name upon it, and got the prosecutor to write his name upon it.</p>
+               <p>Prosecutor. This is the same bill I received of the prisoner at the bar; I left it with Mr. Vaughan. There was a balance coming to the prisoner, and I desired him to step out to a neighbour, that I might get the money to give him. I went out; he bid me come back again, and said, Give me your note for it, which I did, for the balance, which was 6 l. odd money. He said he would call for the change on the morrow, about three o'clock in the afternoon.</p>
+               <p>Q. to Vaughan. Have you seen the two 
+               <persName id="t17690112-3-person53">
+                  John 
+                  Smiths 
+               <interp inst="t17690112-3-person53" type="surname" value="Smiths"></interp>
+                     <interp inst="t17690112-3-person53" type="given" value="John"></interp>
+                     <interp inst="t17690112-3-person53" type="gender" value="male"></interp>
+                  </persName>
+             write, who keep cash with you?</p>
+               <p>Vaughan. I have: one is 
+               <persName id="t17690112-3-person54">
+                  John 
+                  Smith 
+               <interp inst="t17690112-3-person54" type="surname" value="Smith"></interp>
+                     <interp inst="t17690112-3-person54" type="given" value="John"></interp>
+                     <interp inst="t17690112-3-person54" type="gender" value="male"></interp>
+                  </persName>
+             junior, the other senior; one lives in Bucklersbury, and the other in St. Helen's: I do not believe this to be the writing of either of them.</p>
+               <p>Q. Is this cheque on the bill the cheque of your house?</p>
+               <p>Vaughan. It is. One of our customers lost several blank cheques belonging to our house.</p>
+               <p>Q. to Prosecutor. Did the prisoner call for his change the next day?</p>
+               <p>Prosecutor. No, he never did call again.</p>
+               <p>The bill read to this purport.</p>
+               <p>To Mess. Fuller, Baker, and Halford, 12th of October, 1768. Pay to Mr. J. Hall, bearer, 18 l. 18 s.</p>
+               <p>
+            
+                  <persName id="t17690112-3-person55">
+                  John 
+                  Smith 
+               <interp inst="t17690112-3-person55" type="surname" value="Smith"></interp>
+                     <interp inst="t17690112-3-person55" type="given" value="John"></interp>
+                     <interp inst="t17690112-3-person55" type="gender" value="male"></interp>
+                  </persName>
+            .</p>
+               <p>
+            
+                  <persName id="t17690112-3-person56">
+                  Tho 
+                  Wright 
+               <interp inst="t17690112-3-person56" type="surname" value="Wright"></interp>
+                     <interp inst="t17690112-3-person56" type="given" value="Tho"></interp>
+                     <interp inst="t17690112-3-person56" type="gender" value="male"></interp>
+                  </persName>
+            . The prisoner called upon me at my shop, on the 18th of October, in the Strand, and paid me a draft for goods.</p>
+               <p>Court. We are not trying him for that now.</p>
+               <p>Wright. I informed Sir 
+               <persName id="t17690112-3-person57">
+                  John 
+                  Fielding 
+               <interp inst="t17690112-3-person57" type="surname" value="Fielding"></interp>
+                     <interp inst="t17690112-3-person57" type="given" value="John"></interp>
+                     <interp inst="t17690112-3-person57" type="gender" value="male"></interp>
+                  </persName>
+             of it; and he having intelligence where the prisoner was, wrote to a Justice in Gloucester, and he was taken, and brought up from thence on my account. I was there when he was committed by Sir John, the night before the last sessions.</p>
+               <p>Prisoner's Defence.</p>
+               <p>Some time in October last, I, with my family, lived in Hand-Court, Holbourn, in lodgings, at 12 s. a week. 
+               <persName id="t17690112-3-person58">
+                  John 
+                  Smith 
+               <interp inst="t17690112-3-person58" type="surname" value="Smith"></interp>
+                     <interp inst="t17690112-3-person58" type="given" value="John"></interp>
+                     <interp inst="t17690112-3-person58" type="gender" value="male"></interp>
+                  </persName>
+             owed me 29 l. odd money: he call upon me from time to time, and told me, he could not conveniently pay, but would as soon as in his power. I had the honour to be in his Majesty's navy all the last war, and for twenty-three years back. I have now but about a guinea a week to support myself, wife, and three children, and had occasion for money. On a certain day in October, he came to me again, and said, Now I can satisfy you. I asked him, In what manner? He told me, he could give me a draft upon a banker. I said, What banker? He told me, Fuller and Halford. I had two bills: I think the first was for 18 l. 18 s. At the same time there happened to be two persons in my room, who had breakfasted with me, named Abraham and 
+               <persName id="t17690112-3-person59">
+                  Joseph 
+                  Bareau 
+               <interp inst="t17690112-3-person59" type="surname" value="Bareau"></interp>
+                     <interp inst="t17690112-3-person59" type="given" value="Joseph"></interp>
+                     <interp inst="t17690112-3-person59" type="gender" value="male"></interp>
+                  </persName>
+            . I told Smith, That was not sufficient for the whole he owed me. He said, He could not pay me, unless he gave me a draft upon a different banker. He gave me that on Fuller and Son. I received them both at the same time; the other was for 10 l. 10 s. I took them, not knowing the nature of these things, and as I had occasion, I paid them away. I paid one to Mr. Barbe, and the other to Mr. 
+               <persName id="t17690112-3-person60">
+                  Tho 
+                  Wright 
+               <interp inst="t17690112-3-person60" type="surname" value="Wright"></interp>
+                     <interp inst="t17690112-3-person60" type="given" value="Tho"></interp>
+                     <interp inst="t17690112-3-person60" type="gender" value="male"></interp>
+                  </persName>
+            . I having been purser of a man of war, I had a number of articles for sea, at the time the debt was contracted, at stone-buckles that Smith had on me, and other things: he is a watch-maker, and lived in the Quaker's Buildings, near Smithfield Bars. He is now absent. His father is a butcher, and lives near Porter's Block.</p>
+               <p>For the Prisoner.</p>
+               <p>
+            
+                  <persName id="t17690112-3-person61">
+                  Abraham 
+                  Bareau 
+               <interp inst="t17690112-3-person61" type="surname" value="Bareau"></interp>
+                     <interp inst="t17690112-3-person61" type="given" value="Abraham"></interp>
+                     <interp inst="t17690112-3-person61" type="gender" value="male"></interp>
+                  </persName>
+            . I have breakfasted with she prisoner several times: I did frequently in September and October last.</p>
+               <p>Q. How many times may you have breakfasted with him in that time?</p>
+               <p>
+            
+                  <persName id="t17690112-3-person62">
+                  Abraham 
+                  Bareau 
+               <interp inst="t17690112-3-person62" type="surname" value="Bareau"></interp>
+                     <interp inst="t17690112-3-person62" type="given" value="Abraham"></interp>
+                     <interp inst="t17690112-3-person62" type="gender" value="male"></interp>
+                  </persName>
+            . I believe seven or eight times. When I was there, 
+               <persName id="t17690112-3-person63">
+                  John 
+                  Smith 
+               <interp inst="t17690112-3-person63" type="surname" value="Smith"></interp>
+                     <interp inst="t17690112-3-person63" type="given" value="John"></interp>
+                     <interp inst="t17690112-3-person63" type="gender" value="male"></interp>
+                  </persName>
+            , whom I knew before, gave the prisoner a draft. He is a watch-maker.</p>
+               <p>Q. Where did that 
+               <persName id="t17690112-3-person64">
+                  John 
+                  Smith 
+               <interp inst="t17690112-3-person64" type="surname" value="Smith"></interp>
+                     <interp inst="t17690112-3-person64" type="given" value="John"></interp>
+                     <interp inst="t17690112-3-person64" type="gender" value="male"></interp>
+                  </persName>
+             live?</p>
+               <p>
+            
+                  <persName id="t17690112-3-person65">
+                  Abraham 
+                  Bareau 
+               <interp inst="t17690112-3-person65" type="surname" value="Bareau"></interp>
+                     <interp inst="t17690112-3-person65" type="given" value="Abraham"></interp>
+                     <interp inst="t17690112-3-person65" type="gender" value="male"></interp>
+                  </persName>
+            . He lived in the Quaker's Buildings. His father lives now by Porter's Block.</p>
+               <p>Q. What did he give him this draft for?</p>
+               <p>
+            
+                  <persName id="t17690112-3-person66">
+                  Abraham 
+                  Bareau 
+               <interp inst="t17690112-3-person66" type="surname" value="Bareau"></interp>
+                     <interp inst="t17690112-3-person66" type="given" value="Abraham"></interp>
+                     <interp inst="t17690112-3-person66" type="gender" value="male"></interp>
+                  </persName>
+            . That I cannot tell. There was some demand of money, but what I cannot say. I saw one note given at one time, and at another two notes.</p>
+               <p>
+                  <xptr type="pageFacsimile" doc="176901120005"></xptr>Q. How many notes did you see him give the prisoner?</p>
+               <p>
+            
+                  <persName id="t17690112-3-person67">
+                  Abraham 
+                  Bareau 
+               <interp inst="t17690112-3-person67" type="surname" value="Bareau"></interp>
+                     <interp inst="t17690112-3-person67" type="given" value="Abraham"></interp>
+                     <interp inst="t17690112-3-person67" type="gender" value="male"></interp>
+                  </persName>
+            . I saw young Smith give him three or four notes, all payable to Jonathan Hall.</p>
+               <p>Q. Were they wrote Jonathan, or J. Hall?</p>
+               <p>
+            
+                  <persName id="t17690112-3-person68">
+                  Abraham 
+                  Bareau 
+               <interp inst="t17690112-3-person68" type="surname" value="Bareau"></interp>
+                     <interp inst="t17690112-3-person68" type="given" value="Abraham"></interp>
+                     <interp inst="t17690112-3-person68" type="gender" value="male"></interp>
+                  </persName>
+            . I will not be positive which. When I came, as I did frequently, they were always writing.</p>
+               <p>Q. Can you be positive, whether there were three or four notes?</p>
+               <p>
+            
+                  <persName id="t17690112-3-person69">
+                  Abraham 
+                  Bareau 
+               <interp inst="t17690112-3-person69" type="surname" value="Bareau"></interp>
+                     <interp inst="t17690112-3-person69" type="given" value="Abraham"></interp>
+                     <interp inst="t17690112-3-person69" type="gender" value="male"></interp>
+                  </persName>
+            . I can be positive of four: I think two of 18 l. 18 s. one of 12, and one 10, from the beginning of September, to the latter end or beginning of October.</p>
+               <p>Q. Do you know Smith's hand-writing?</p>
+               <p>
+            
+                  <persName id="t17690112-3-person70">
+                  Abraham 
+                  Bareau 
+               <interp inst="t17690112-3-person70" type="surname" value="Bareau"></interp>
+                     <interp inst="t17690112-3-person70" type="given" value="Abraham"></interp>
+                     <interp inst="t17690112-3-person70" type="gender" value="male"></interp>
+                  </persName>
+            . I have known Smith as well as I know myself; I know his hand-writing well.</p>
+               <p>Q. Did you know where he kept cash?</p>
+               <p>
+            
+                  <persName id="t17690112-3-person71">
+                  Abraham 
+                  Bareau 
+               <interp inst="t17690112-3-person71" type="surname" value="Bareau"></interp>
+                     <interp inst="t17690112-3-person71" type="given" value="Abraham"></interp>
+                     <interp inst="t17690112-3-person71" type="gender" value="male"></interp>
+                  </persName>
+            . No; I did not.</p>
+               <p>Q. Look upon this note.</p>
+               <p>
+            
+                  <persName id="t17690112-3-person72">
+                  Abraham 
+                  Bareau 
+               <interp inst="t17690112-3-person72" type="surname" value="Bareau"></interp>
+                     <interp inst="t17690112-3-person72" type="given" value="Abraham"></interp>
+                     <interp inst="t17690112-3-person72" type="gender" value="male"></interp>
+                  </persName>
+            . (he takes the note in his hand) This is Smith's hand-writing. I saw him write it.</p>
+               <p>Q. What time of the day did he write it, and who was by?</p>
+               <p>
+            
+                  <persName id="t17690112-3-person73">
+                  Abraham 
+                  Bareau 
+               <interp inst="t17690112-3-person73" type="surname" value="Bareau"></interp>
+                     <interp inst="t17690112-3-person73" type="given" value="Abraham"></interp>
+                     <interp inst="t17690112-3-person73" type="gender" value="male"></interp>
+                  </persName>
+            . It was some time after breakfast-time. There was my brother in the room, and Mr. Hall, his wife, a servant, and two children.</p>
+               <p>Q. Was this note given single, or another given at the same time?</p>
+               <p>
+            
+                  <persName id="t17690112-3-person74">
+                  Abraham 
+                  Bareau 
+               <interp inst="t17690112-3-person74" type="surname" value="Bareau"></interp>
+                     <interp inst="t17690112-3-person74" type="given" value="Abraham"></interp>
+                     <interp inst="t17690112-3-person74" type="gender" value="male"></interp>
+                  </persName>
+            . It was given single. I believe there was another note given before this (not the same day) for 10 l. they were chequed, but cannot say they were both on one banker.</p>
+               <p>Q. Do you know the nature of the dealings between these two men?</p>
+               <p>
+            
+                  <persName id="t17690112-3-person75">
+                  Abraham 
+                  Bareau 
+               <interp inst="t17690112-3-person75" type="surname" value="Bareau"></interp>
+                     <interp inst="t17690112-3-person75" type="given" value="Abraham"></interp>
+                     <interp inst="t17690112-3-person75" type="gender" value="male"></interp>
+                  </persName>
+            . No, I cannot say that; I know they were pretty much together. I have bought hard-ware goods of the prisoner.</p>
+               <p>Q. How long ago?</p>
+               <p>
+            
+                  <persName id="t17690112-3-person76">
+                  Abraham 
+                  Bareau 
+               <interp inst="t17690112-3-person76" type="surname" value="Bareau"></interp>
+                     <interp inst="t17690112-3-person76" type="given" value="Abraham"></interp>
+                     <interp inst="t17690112-3-person76" type="gender" value="male"></interp>
+                  </persName>
+            . About six years ago, I heard Hall say to Smith, Shall we settle? They got a pen and ink, and cast up some account. They did settle, and that draft was given; and when the other notes were given, they said, Shall we settle?</p>
+               <p>Q. What age is Smith?</p>
+               <p>
+            
+                  <persName id="t17690112-3-person77">
+                  Abraham 
+                  Bareau 
+               <interp inst="t17690112-3-person77" type="surname" value="Bareau"></interp>
+                     <interp inst="t17690112-3-person77" type="given" value="Abraham"></interp>
+                     <interp inst="t17690112-3-person77" type="gender" value="male"></interp>
+                  </persName>
+            . I believe he is twenty-five, or twenty-six years old.</p>
+               <p>Q. What size?</p>
+               <p>
+            
+                  <persName id="t17690112-3-person78">
+                  Abraham 
+                  Bareau 
+               <interp inst="t17690112-3-person78" type="surname" value="Bareau"></interp>
+                     <interp inst="t17690112-3-person78" type="given" value="Abraham"></interp>
+                     <interp inst="t17690112-3-person78" type="gender" value="male"></interp>
+                  </persName>
+            . About my size. (A middling size.)</p>
+               <p>Q. Is he black, or fair?</p>
+               <p>
+            
+                  <persName id="t17690112-3-person79">
+                  Abraham 
+                  Bareau 
+               <interp inst="t17690112-3-person79" type="surname" value="Bareau"></interp>
+                     <interp inst="t17690112-3-person79" type="given" value="Abraham"></interp>
+                     <interp inst="t17690112-3-person79" type="gender" value="male"></interp>
+                  </persName>
+            . He is fair.</p>
+               <p>Q. When did you see him last?</p>
+               <p>
+            
+                  <persName id="t17690112-3-person80">
+                  Abraham 
+                  Bareau 
+               <interp inst="t17690112-3-person80" type="surname" value="Bareau"></interp>
+                     <interp inst="t17690112-3-person80" type="given" value="Abraham"></interp>
+                     <interp inst="t17690112-3-person80" type="gender" value="male"></interp>
+                  </persName>
+            . I saw him but a very little time ago: since Mr. Hall has been in custody.</p>
+               <p>
+            
+                  <persName id="t17690112-3-person81">
+                  Joseph 
+                  Bareau 
+               <interp inst="t17690112-3-person81" type="surname" value="Bareau"></interp>
+                     <interp inst="t17690112-3-person81" type="given" value="Joseph"></interp>
+                     <interp inst="t17690112-3-person81" type="gender" value="male"></interp>
+                  </persName>
+            . Mr. Hall subpoened me. I have been very well acquainted with him. I was in his lodgings the latter end of September, and the beginning of October. I remember 
+               <persName id="t17690112-3-person82">
+                  John 
+                  Smith 
+               <interp inst="t17690112-3-person82" type="surname" value="Smith"></interp>
+                     <interp inst="t17690112-3-person82" type="given" value="John"></interp>
+                     <interp inst="t17690112-3-person82" type="gender" value="male"></interp>
+                  </persName>
+             coming there; and have heard Mr. Hall say he was indebted to him several times.</p>
+               <p>Q. Did you hear the sum?</p>
+               <p>
+            
+                  <persName id="t17690112-3-person83">
+                  Joseph 
+                  Bareau 
+               <interp inst="t17690112-3-person83" type="surname" value="Bareau"></interp>
+                     <interp inst="t17690112-3-person83" type="given" value="Joseph"></interp>
+                     <interp inst="t17690112-3-person83" type="gender" value="male"></interp>
+                  </persName>
+            . No, I did not. I have seen Smith-give Hall bills for different sums, and upon different bankers; some for twelve guineas, some ten, and some eighteen. One time in October, I believe there were two bills for eighteen guineas; they had connections together; they gave one another bills. Smith has shewed me a bill that Hall gave him, and I know it to be Hall's hand-writing. I have seen two or three such.</p>
+               <p>Q. Have you seen Smith write.</p>
+               <p>
+            
+                  <persName id="t17690112-3-person84">
+                  Joseph 
+                  Bareau 
+               <interp inst="t17690112-3-person84" type="surname" value="Bareau"></interp>
+                     <interp inst="t17690112-3-person84" type="given" value="Joseph"></interp>
+                     <interp inst="t17690112-3-person84" type="gender" value="male"></interp>
+                  </persName>
+            . I have several times. I have seen Hall write also.</p>
+               <p>Q. Look at this bill. (He takes it in his hand.)</p>
+               <p>
+            
+                  <persName id="t17690112-3-person85">
+                  Joseph 
+                  Bareau 
+               <interp inst="t17690112-3-person85" type="surname" value="Bareau"></interp>
+                     <interp inst="t17690112-3-person85" type="given" value="Joseph"></interp>
+                     <interp inst="t17690112-3-person85" type="gender" value="male"></interp>
+                  </persName>
+            . The body of this draft is Hall's hand-writing, and the signing is Smith's.</p>
+               <p>Q. to 
+               <persName id="t17690112-3-person86">
+                  Abraham 
+                  Bareau 
+               <interp inst="t17690112-3-person86" type="surname" value="Bareau"></interp>
+                     <interp inst="t17690112-3-person86" type="given" value="Abraham"></interp>
+                     <interp inst="t17690112-3-person86" type="gender" value="male"></interp>
+                  </persName>
+            . Did not you say Smith wrote the note?</p>
+               <p>
+            
+                  <persName id="t17690112-3-person87">
+                  Abraham 
+                  Bareau 
+               <interp inst="t17690112-3-person87" type="surname" value="Bareau"></interp>
+                     <interp inst="t17690112-3-person87" type="given" value="Abraham"></interp>
+                     <interp inst="t17690112-3-person87" type="gender" value="male"></interp>
+                  </persName>
+            . I was only speaking to the name Smith.</p>
+               <p>Q. Who wrote the body of it?</p>
+               <p>
+            
+                  <persName id="t17690112-3-person88">
+                  Abraham 
+                  Bareau 
+               <interp inst="t17690112-3-person88" type="surname" value="Bareau"></interp>
+                     <interp inst="t17690112-3-person88" type="given" value="Abraham"></interp>
+                     <interp inst="t17690112-3-person88" type="gender" value="male"></interp>
+                  </persName>
+            . That is Hall's writing.</p>
+               <p>
+                  <rs id="t17690112-3-verdict14" type="verdictDescription">
+                     <interp inst="t17690112-3-verdict14" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>. <rs id="t17690112-3-punish15" type="punishmentDescription">
+                     <interp inst="t17690112-3-punish15" type="punishmentCategory" value="death"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17690112-3-defend46 t17690112-3-punish15"></join>
+               Death
+            </rs>.</p>
+               <p>There was another Indictment against him for another Forgery.</p>
+            </div1>

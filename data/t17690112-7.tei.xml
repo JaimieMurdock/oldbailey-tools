@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17690112-7">
+               <interp inst="t17690112-7" type="collection" value="BAILEY"></interp>
+               <interp inst="t17690112-7" type="year" value="1769"></interp>
+               <interp inst="t17690112-7" type="uri" value="sessionsPapers/17690112"></interp>
+               <interp inst="t17690112-7" type="date" value="17690112"></interp>
+               <join result="criminalCharge" id="t17690112-7-off29-c98" targOrder="Y" targets="t17690112-7-defend112 t17690112-7-off29 t17690112-7-verdict33"></join>
+         
+               <p>88. (L.) 
+               
+                  <persName id="t17690112-7-defend112" type="defendantName">
+                     George 
+                     Lucas 
+                  <interp inst="t17690112-7-defend112" type="surname" value="Lucas"></interp>
+                     <interp inst="t17690112-7-defend112" type="given" value="George"></interp>
+                     <interp inst="t17690112-7-defend112" type="gender" value="male"></interp>
+                     <interp inst="t17690112-7-defend112" type="age" value="fifteen"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17690112-7-off29" type="offenceDescription">
+                     <interp inst="t17690112-7-off29" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17690112-7-off29" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a 36 s. piece, a moidore, seven guineas, five half guineas, one 9 s. piece, and a canvas bag, value one penny
+            </rs>, the property of 
+               
+                  <persName id="t17690112-7-victim114" type="victimName">
+                     William 
+                     Fawcett 
+                  <interp inst="t17690112-7-victim114" type="surname" value="Fawcett"></interp>
+                     <interp inst="t17690112-7-victim114" type="given" value="William"></interp>
+                     <interp inst="t17690112-7-victim114" type="gender" value="male"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17690112-7-off29 t17690112-7-victim114"></join>
+                  </persName>
+                
+            , <rs id="t17690112-7-cd30" type="crimeDate">Jan. 4</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17690112-7-off29 t17690112-7-cd30"></join>: ||</p>
+               <p>
+            
+                  <persName id="t17690112-7-person115">
+                  Eliz 
+                  Fawcett 
+               <interp inst="t17690112-7-person115" type="surname" value="Fawcett"></interp>
+                     <interp inst="t17690112-7-person115" type="given" value="Eliz"></interp>
+                     <interp inst="t17690112-7-person115" type="gender" value="female"></interp>
+                  </persName>
+            . I am wife to 
+               <persName id="t17690112-7-person116">
+                  William 
+                  Fawcett 
+               <interp inst="t17690112-7-person116" type="surname" value="Fawcett"></interp>
+                     <interp inst="t17690112-7-person116" type="given" value="William"></interp>
+                     <interp inst="t17690112-7-person116" type="gender" value="male"></interp>
+                  </persName>
+            . On the 4th of this instant I was at our shop, (my husband is a <rs id="t17690112-7-viclabel31" type="occupation">butcher</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17690112-7-victim114 t17690112-7-viclabel31"></join>) in the <placeName id="t17690112-7-crimeloc32">Fleet-market</placeName>
+                  <interp inst="t17690112-7-crimeloc32" type="placeName" value="Fleet-market"></interp>
+                  <interp inst="t17690112-7-crimeloc32" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17690112-7-off29 t17690112-7-crimeloc32"></join>. I observed the prisoner at my right side, very close to me. I was reaching down a neck of mutton. I cast my eye down, and saw my apron was removed from my pocket-apron. I was very much frighted. I laid hold of the prisoner's arm, and asked him what he had been doing? He said, he had been doing nothing. He told me his master was coming to buy some meat of me. I asked his master's name, he said<xptr type="pageFacsimile" doc="176901120007"></xptr> it was Isaac, and some other name I cannot remember. I looked in my pocket, and mist a canvas bag, with the money laid in the indictment in it. (Mentioning the pieces.) I still held the boy, while a neighbour came to assist me. I said, I had lost a canvas bag, and fifteen or sixteen pounds in it. We took the boy into the shop and searched him, and found the bag, with the money in it, concealed betwixt his legs.</p>
+               <p>
+            
+                  <persName id="t17690112-7-person117">
+                  Thomas 
+                  Toone 
+               <interp inst="t17690112-7-person117" type="surname" value="Toone"></interp>
+                     <interp inst="t17690112-7-person117" type="given" value="Thomas"></interp>
+                     <interp inst="t17690112-7-person117" type="gender" value="male"></interp>
+                  </persName>
+            . I keep a shop in the Fleet-Market, I assisted Mrs. Fawcett. The boy, when he was first charged, denyed it, and said he would stand search. I took the bag from betwixt his legs, on the out-side of his breeches.</p>
+               <p>Prisoner's Defence.</p>
+               <p>I shall be fifteen years of age next May. As I was going through the market, I saw a purse on the ground. I took it up, and pushed against Mrs. Fawcett; as I stooped, I put it between my legs.</p>
+               <p>
+                  <rs id="t17690112-7-verdict33" type="verdictDescription">
+                     <interp inst="t17690112-7-verdict33" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>. <rs id="t17690112-7-punish34" type="punishmentDescription">
+                     <interp inst="t17690112-7-punish34" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17690112-7-defend112 t17690112-7-punish34"></join>
+               T
+            </rs>.</p>
+            </div1>

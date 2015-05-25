@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17690112-6">
+               <interp inst="t17690112-6" type="collection" value="BAILEY"></interp>
+               <interp inst="t17690112-6" type="year" value="1769"></interp>
+               <interp inst="t17690112-6" type="uri" value="sessionsPapers/17690112"></interp>
+               <interp inst="t17690112-6" type="date" value="17690112"></interp>
+               <join result="criminalCharge" id="t17690112-6-off22-c92" targOrder="Y" targets="t17690112-6-defend103 t17690112-6-off22 t17690112-6-verdict27"></join>
+         
+               <p>87. (L.) 
+               <persName id="t17690112-6-defend103" type="defendantName">
+                  
+                     Alexander 
+                     Mills 
+                  , otherwise <rs id="t17690112-6-alias-1" type="alias">
+                        <join result="nameAlias" targOrder="Y" targets="t17690112-6-defend103 t17690112-6-alias-1"></join>David Wiltshire</rs>
+                     <interp inst="t17690112-6-defend103" type="surname" value="Mills"></interp>
+                     <interp inst="t17690112-6-defend103" type="given" value="Alexander"></interp>
+                     <interp inst="t17690112-6-defend103" type="gender" value="male"></interp>
+                  </persName>
+            , was indicted for <rs id="t17690112-6-off22" type="offenceDescription">
+                     <interp inst="t17690112-6-off22" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17690112-6-off22" type="offenceSubcategory" value="grandLarceny"></interp>
+               stealing a man's beaver hat, value 10 s.
+            </rs> the property of 
+               
+                  <persName id="t17690112-6-victim106" type="victimName">
+                     Ann 
+                     Rodbard 
+                  <interp inst="t17690112-6-victim106" type="surname" value="Rodbard"></interp>
+                     <interp inst="t17690112-6-victim106" type="given" value="Ann"></interp>
+                     <interp inst="t17690112-6-victim106" type="gender" value="female"></interp>
+                     <join result="offenceVictim" targOrder="Y" targets="t17690112-6-off22 t17690112-6-victim106"></join>
+                  </persName>
+                
+            , <rs id="t17690112-6-viclabel23" type="occupation">widow</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17690112-6-victim106 t17690112-6-viclabel23"></join>, <rs id="t17690112-6-cd24" type="crimeDate">December 13</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17690112-6-off22 t17690112-6-cd24"></join>. +</p>
+               <p>
+            
+                  <persName id="t17690112-6-person107">
+                  Nicholas 
+                  Simmonds 
+               <interp inst="t17690112-6-person107" type="surname" value="Simmonds"></interp>
+                     <interp inst="t17690112-6-person107" type="given" value="Nicholas"></interp>
+                     <interp inst="t17690112-6-person107" type="gender" value="male"></interp>
+                  </persName>
+            . I am servant to 
+               <persName id="t17690112-6-person108">
+                  Ann 
+                  Rodbard 
+               <interp inst="t17690112-6-person108" type="surname" value="Rodbard"></interp>
+                     <interp inst="t17690112-6-person108" type="given" value="Ann"></interp>
+                     <interp inst="t17690112-6-person108" type="gender" value="female"></interp>
+                  </persName>
+            , a <rs id="t17690112-6-viclabel25" type="occupation">pawnbroker</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17690112-6-victim106 t17690112-6-viclabel25"></join> in <placeName id="t17690112-6-crimeloc26">Blackfryers</placeName>
+                  <interp inst="t17690112-6-crimeloc26" type="placeName" value="Blackfryers"></interp>
+                  <interp inst="t17690112-6-crimeloc26" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17690112-6-off22 t17690112-6-crimeloc26"></join>. On the 13th of December, about nine in the morning, I went to get a 5 s. and 3 d. out of a bureau, to lend one 
+               <persName id="t17690112-6-person109">
+                  Mary 
+                  Wyld 
+               <interp inst="t17690112-6-person109" type="surname" value="Wyld"></interp>
+                     <interp inst="t17690112-6-person109" type="given" value="Mary"></interp>
+                     <interp inst="t17690112-6-person109" type="gender" value="female"></interp>
+                  </persName>
+            : as I was locking the bureau. I heard one of the shop doors bang too. When I came into the shop again, there were none but the woman. I asked whether somebody did not come in? She told me, a man came in, and reached over the counter, and took a hat, and went out. I had taken it in about half an hour before. I jumped over the counter, and ran up the back-way, and in about a hundred yards I saw the prisoner running; he seemed as if he had got something under his arm. I pursued, and called stop thief, but nobody would stop him. I came-up to him and took him. I told him he was my prisoner, for stealing a hat. I took a hat from under his coat, which was not mine. I then took the hat from his head, it was a very remarkable one, lined with white silk. I knew it well to be the same I had taken in. I brought him to our house, there he acknowledged he had taken it, and said it was his first crime, and went down on his knees. when before the Alderman, he said his name was 
+               <persName id="t17690112-6-person110">
+                  David 
+                  Wiltshire 
+               <interp inst="t17690112-6-person110" type="surname" value="Wiltshire"></interp>
+                     <interp inst="t17690112-6-person110" type="given" value="David"></interp>
+                     <interp inst="t17690112-6-person110" type="gender" value="male"></interp>
+                  </persName>
+            , but I found afterwards his name was Mills.</p>
+               <p>Prisoner's Defence.</p>
+               <p>I was going to the Borough. When in Black-fryars, a man happened to come running across, and dropped a hat, and I picked it up, and put it on my head, and put mine under my arm. This man called stop thief! I made a full stop. He came, and said, it was his, and took it off my head.</p>
+               <p>
+                  <rs id="t17690112-6-verdict27" type="verdictDescription">
+                     <interp inst="t17690112-6-verdict27" type="verdictCategory" value="guilty"></interp>
+               Guilty
+            </rs>. <rs id="t17690112-6-punish28" type="punishmentDescription">
+                     <interp inst="t17690112-6-punish28" type="punishmentCategory" value="transport"></interp>
+                     <join result="defendantPunishment" targOrder="Y" targets="t17690112-6-defend103 t17690112-6-punish28"></join>
+               T
+            </rs>.</p>
+            </div1>

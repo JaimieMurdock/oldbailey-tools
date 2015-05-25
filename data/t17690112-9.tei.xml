@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17690112-9">
+               <interp inst="t17690112-9" type="collection" value="BAILEY"></interp>
+               <interp inst="t17690112-9" type="year" value="1769"></interp>
+               <interp inst="t17690112-9" type="uri" value="sessionsPapers/17690112"></interp>
+               <interp inst="t17690112-9" type="date" value="17690112"></interp>
+               <join result="criminalCharge" id="t17690112-9-off38-c105" targOrder="Y" targets="t17690112-9-defend123 t17690112-9-off38 t17690112-9-verdict42"></join>
+               <join result="criminalCharge" id="t17690112-9-off43-c105" targOrder="Y" targets="t17690112-9-defend123 t17690112-9-off43 t17690112-9-verdict42"></join>
+         
+               <p>90. (L.) 
+               
+                  <persName id="t17690112-9-defend123" type="defendantName">
+                     Matthew 
+                     Skinner 
+                  <interp inst="t17690112-9-defend123" type="surname" value="Skinner"></interp>
+                     <interp inst="t17690112-9-defend123" type="given" value="Matthew"></interp>
+                     <interp inst="t17690112-9-defend123" type="gender" value="male"></interp>
+                  </persName>
+               
+             was indicted for <rs id="t17690112-9-off38" type="offenceDescription">
+                     <interp inst="t17690112-9-off38" type="offenceCategory" value="deception"></interp>
+                     <interp inst="t17690112-9-off38" type="offenceSubcategory" value="forgery"></interp>
+               forging, and counteirfeting an order, for the payment of money, directed to Mess. Fuller, Baker, and Halford
+            </rs>, to this purport:</p>
+               <p>"October</p>
+               <p>"2 l, 1768. Pay to Mr. 
+               <persName id="t17690112-9-person124">
+                  James 
+                  Brown 
+               <interp inst="t17690112-9-person124" type="surname" value="Brown"></interp>
+                     <interp inst="t17690112-9-person124" type="given" value="James"></interp>
+                     <interp inst="t17690112-9-person124" type="gender" value="male"></interp>
+                  </persName>
+            , or</p>
+               <p>"bearer, 15 l. 15 s. and 6 d. G. Humphrys." And for publishing the same, with intent to defraud 
+               
+                  <persName id="t17690112-9-victim126" type="victimName">
+                     William 
+                     Saunders 
+                  <interp inst="t17690112-9-victim126" type="surname" value="Saunders"></interp>
+                     <interp inst="t17690112-9-victim126" type="given" value="William"></interp>
+                     <interp inst="t17690112-9-victim126" type="gender" value="male"></interp>
+                  </persName>
+                
+            , <rs id="t17690112-9-cd39" type="crimeDate">October 22</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17690112-9-off38 t17690112-9-cd39"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17690112-9-off43 t17690112-9-cd39"></join>. +</p>
+               <p>
+            
+                  <persName id="t17690112-9-person127">
+                  William 
+                  Saunders 
+               <interp inst="t17690112-9-person127" type="surname" value="Saunders"></interp>
+                     <interp inst="t17690112-9-person127" type="given" value="William"></interp>
+                     <interp inst="t17690112-9-person127" type="gender" value="male"></interp>
+                  </persName>
+            . On the 22d of October last, the prisoner came to my shop; I am a <rs id="t17690112-9-viclabel40" type="occupation">hosier</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17690112-9-victim126 t17690112-9-viclabel40"></join> near <placeName id="t17690112-9-crimeloc41">Aldgate</placeName>
+                  <interp inst="t17690112-9-crimeloc41" type="placeName" value="Aldgate"></interp>
+                  <interp inst="t17690112-9-crimeloc41" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17690112-9-off38 t17690112-9-crimeloc41"></join>
+                  <join result="offencePlace" targOrder="Y" targets="t17690112-9-off43 t17690112-9-crimeloc41"></join>; he told me, he was recommended to buy three or four dozen of house, of 23 or 24 s. a dozen, and that they were for a person at Berry, who did a great deal of business in my way, and if we used him well, he would be a good customer; he looked out five dozen, which came to 5 l. 6 s. I asked him, what name I should make the bill of parcels in; he said, his name was Robinson; he then presented a draft for 15 l. 15 s. and 6 d. and desired me to give him change. He said, it was the last draft he had. I was hesitating upon it, but he appearing to be a reputable country shop-keeper, I was inclinable to give him change, with this precaution, that as soon as I had given him change, which was a draft upon Sir 
+               <persName id="t17690112-9-person128">
+                  Richard 
+                  Glyn 
+               <interp inst="t17690112-9-person128" type="surname" value="Glyn"></interp>
+                     <interp inst="t17690112-9-person128" type="given" value="Richard"></interp>
+                     <interp inst="t17690112-9-person128" type="gender" value="male"></interp>
+                  </persName>
+             and Co. I intended to go immediately to know whether it was a good one. I gave him a draft upon Sir Richard for 10 l. 9 s. and 6 d. which with the 5 l. 6 s. made the money. I went to Mr. Fuller's, and found his bill was a bad one. Sir 
+               <persName id="t17690112-9-person129">
+                  Richard 
+                  Glyn 
+               <interp inst="t17690112-9-person129" type="surname" value="Glyn"></interp>
+                     <interp inst="t17690112-9-person129" type="given" value="Richard"></interp>
+                     <interp inst="t17690112-9-person129" type="gender" value="male"></interp>
+                  </persName>
+            's house being but two doors from that, I got to Sir 
+               <persName id="t17690112-9-person130">
+                  Richard 
+                  Glyn 
+               <interp inst="t17690112-9-person130" type="surname" value="Glyn"></interp>
+                     <interp inst="t17690112-9-person130" type="given" value="Richard"></interp>
+                     <interp inst="t17690112-9-person130" type="gender" value="male"></interp>
+                  </persName>
+            's four minutes before the prisoner came in. Skinner seeing me, he wanted to withdraw. He said, he would call again; they told him, he had better do his business now. He had my draft in his hand, and laid it on the counter. We went for a constable, and took him in custody. He said, he received it of one Gompy, and said, his own name was 
+               <persName id="t17690112-9-person131">
+                  Jonathan 
+                  Robinson 
+               <interp inst="t17690112-9-person131" type="surname" value="Robinson"></interp>
+                     <interp inst="t17690112-9-person131" type="given" value="Jonathan"></interp>
+                     <interp inst="t17690112-9-person131" type="gender" value="male"></interp>
+                  </persName>
+            , that he came to town about selling a horse, and that he could neither write nor read. We went before an Alderman on the Monday. ( This was Saturday evening.) He there acknowledged another fraud of this kind. He said, he came from Sheffield, and that he received it of one Gompy, at a house in Goodman's Fields. He said, he should be glad to have Gompy taken.</p>
+               <p>John Vaughn. The first time I saw the prisoner, was at Sir 
+               <persName id="t17690112-9-person132">
+                  Richard 
+                  Glyn 
+               <interp inst="t17690112-9-person132" type="surname" value="Glyn"></interp>
+                     <interp inst="t17690112-9-person132" type="given" value="Richard"></interp>
+                     <interp inst="t17690112-9-person132" type="gender" value="male"></interp>
+                  </persName>
+            's. I went along with him and Mr. Saunders, and Mr. Halford, to a tavern in the Poultry. He was asked his name. He said, it was 
+               <persName id="t17690112-9-person133">
+                  Jonathan 
+                  Robinson 
+               <interp inst="t17690112-9-person133" type="surname" value="Robinson"></interp>
+                     <interp inst="t17690112-9-person133" type="given" value="Jonathan"></interp>
+                     <interp inst="t17690112-9-person133" type="gender" value="male"></interp>
+                  </persName>
+            , and was lately come out of the country, I think, from Sheffield, and had the draft of one Gompy, a Jew, and that he himself could neither write nor read. That he had laid in Goodman's-Fields the night before, and had taken it there; that he had been in town but a few days; that he lodged, when he came to town, at the Three Nuns Inn, in White-Chapel, three or four nights, but had laid at the Fleece Goodman's-fields the night before; and that he came to town to dispose of a horse. But he was not consistent in the account that he gave of himself.</p>
+               <p>Q. Does any body of the name of G. Humphrys keep cash at your house?</p>
+               <p>Vaughn. I have been there fifteen or sixteen years, and I know of no such person. The draft is a blank cheque of ours that has seen filled up</p>
+               <p>(Produced in court.)</p>
+               <p>It is read to the purport as in the indictment.</p>
+               <p>Prisoner's Defence. </p>
+               <p>I received these drafts of Gompy, in order to<xptr type="pageFacsimile" doc="176901120008"></xptr> get them off for him. I was very innocent of any bad design.</p>
+               <p>Q. to Saunders. How came you to find that the prisoner's name was not Robinson?</p>
+               <p>Saunders. When he was before Mr. Alderman Kennet, at the Mansion-House, he said his name was 
+               <persName id="t17690112-9-person134">
+                  Matthew 
+                  Skinner 
+               <interp inst="t17690112-9-person134" type="surname" value="Skinner"></interp>
+                     <interp inst="t17690112-9-person134" type="given" value="Matthew"></interp>
+                     <interp inst="t17690112-9-person134" type="gender" value="male"></interp>
+                  </persName>
+            . The Alderman asked him, why he had said his name was 
+               <persName id="t17690112-9-person135">
+                  Jonathan 
+                  Robinson 
+               <interp inst="t17690112-9-person135" type="surname" value="Robinson"></interp>
+                     <interp inst="t17690112-9-person135" type="given" value="Jonathan"></interp>
+                     <interp inst="t17690112-9-person135" type="gender" value="male"></interp>
+                  </persName>
+            ; he answered, he was then confused, and did not know what he said.</p>
+               <p>For the Prisoner.</p>
+               <p>
+            
+                  <persName id="t17690112-9-person136">
+                  William 
+                  Geter 
+               <interp inst="t17690112-9-person136" type="surname" value="Geter"></interp>
+                     <interp inst="t17690112-9-person136" type="given" value="William"></interp>
+                     <interp inst="t17690112-9-person136" type="gender" value="male"></interp>
+                  </persName>
+            . I am the constable. After I went to the prison with the prisoner, he desired I would see after Gompy; he said, he was sure I could find him. I went to the Three Nuns, in White-Chapel, and took one of the turnkeys with me. We were told we were too late by about 20 minutes, Gompy was just gone away with a horse, which he bought of the prisoner. We went to the Golden-Fleece, in Goodman's Fields; they knew him there, but he was not there. I came home, and went to the Compter to Skinner. The next day he was very uneasy that we could not find Gompy. I heard him say, he could neither write nor read.</p>
+               <p>
+            
+                  <persName id="t17690112-9-person137">
+                  George 
+                  Waddington 
+               <interp inst="t17690112-9-person137" type="surname" value="Waddington"></interp>
+                     <interp inst="t17690112-9-person137" type="given" value="George"></interp>
+                     <interp inst="t17690112-9-person137" type="gender" value="male"></interp>
+                  </persName>
+            . I live at the Three Nuns, White-Chapel. On the Saturday sevennight before this affair happened, the prisoner and two other men came to me, and hired a post-chaise of me, to go to Brentwood-Fair; they came back again at night, and lay at my house. Skinner rode a horse to the fair, and came back again on him: he staid at my house till the Friday or Saturday following. I imagined this horse belonged to the Jew, to whom I thought Skinner was servant. There were a little man and a lusty man, two Jews, that went with Skinner to Burntwood-Fair. I heard the Jew was named Gompy Humphrys, and on the Saturday, the little Jew came and demanded the horse. I was not at home. My wife said, there is a post-chaise, and Skinner's victuals and drink to pay for. He paid for the post-chaise and horse, and took the horse away; he refused to pay for Skinner, and said he knew nothing of him. This is what my wife told me, when I came home.</p>
+               <p>
+            
+                  <persName id="t17690112-9-person138">
+                  Samuel 
+                  Oaks 
+               <interp inst="t17690112-9-person138" type="surname" value="Oaks"></interp>
+                     <interp inst="t17690112-9-person138" type="given" value="Samuel"></interp>
+                     <interp inst="t17690112-9-person138" type="gender" value="male"></interp>
+                  </persName>
+            . I am a scissars-maker, and live in Ironmonger-Row, Old-Street. I come from Sheffield. I knew the prisoner there; he was a scissars grinder. I believe, he can neither write nor read; he always appeared to be a very honest man at Sheffield. I suppose, he had not been come up long before he was taken up. I left Sheffield not seven months ago. I do not know what he came up about.</p>
+               <p>
+            
+                  <persName id="t17690112-9-person139">
+                  William 
+                  Rogers 
+               <interp inst="t17690112-9-person139" type="surname" value="Rogers"></interp>
+                     <interp inst="t17690112-9-person139" type="given" value="William"></interp>
+                     <interp inst="t17690112-9-person139" type="gender" value="male"></interp>
+                  </persName>
+            . I am a shagreen case-maker, and live in a court on Ludgate-Hill. I have known the prisoner about eight years: as far as I can learn, he came to London, but about a week before he was taken up. I came from Sheffield, I never knew any thing of him, but what was honest. I am pretty certain, he can neither write nor read. I hear this Gompy is now at Gloucester.</p>
+               <p>
+            
+                  <persName id="t17690112-9-person140">
+                  Richard 
+                  Eglinton 
+               <interp inst="t17690112-9-person140" type="surname" value="Eglinton"></interp>
+                     <interp inst="t17690112-9-person140" type="given" value="Richard"></interp>
+                     <interp inst="t17690112-9-person140" type="gender" value="male"></interp>
+                  </persName>
+            . I live at the house of 
+               <persName id="t17690112-9-person141">
+                  John 
+                  Abdy 
+               <interp inst="t17690112-9-person141" type="surname" value="Abdy"></interp>
+                     <interp inst="t17690112-9-person141" type="given" value="John"></interp>
+                     <interp inst="t17690112-9-person141" type="gender" value="male"></interp>
+                  </persName>
+            's, at No. 5, in Oat-Lane, by Goldsmiths-Hall. I worked in Sheffield nine years. I came to town last Easter. I have known the prisoner eight years; I never heard but that he always bore a good character. I have heard he can neither write nor read.</p>
+               <p>
+            
+                  <persName id="t17690112-9-person142">
+                  John 
+                  Edwards 
+               <interp inst="t17690112-9-person142" type="surname" value="Edwards"></interp>
+                     <interp inst="t17690112-9-person142" type="given" value="John"></interp>
+                     <interp inst="t17690112-9-person142" type="gender" value="male"></interp>
+                  </persName>
+            . I live on Ludgate-Hill. I am a journeyman case-maker to Mr. Rogers. I have known the prisoner near four years. I never heard but that he bore a good character. I never heard that he could write or read.</p>
+               <p>
+            
+                  <persName id="t17690112-9-person143">
+                  John 
+                  Markham 
+               <interp inst="t17690112-9-person143" type="surname" value="Markham"></interp>
+                     <interp inst="t17690112-9-person143" type="given" value="John"></interp>
+                     <interp inst="t17690112-9-person143" type="gender" value="male"></interp>
+                  </persName>
+            . I live in Throgmorton-Street. I knew him sixteen or eighteen years at Sheffield. He is a very laborious, industrious man. I never heard of his being in town, till he was taken up. It was commonly understood that he could neither write nor read.</p>
+               <p>
+                  <rs id="t17690112-9-verdict42" type="verdictDescription">
+                     <interp inst="t17690112-9-verdict42" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+               <p>(L.) He was a second time indicted for <rs id="t17690112-9-off43" type="offenceDescription">
+                     <interp inst="t17690112-9-off43" type="offenceCategory" value="deception"></interp>
+                     <interp inst="t17690112-9-off43" type="offenceSubcategory" value="forgery"></interp>
+               forging and publishing, as true, a false, forged, and counterfeit draft, drawn on Mess. Fuller, Baker, and Halford, for 15 l. 14 s. and 6 d. signed G. Humphrys, well knowing the same to be forged, with intention to defraud 
+                     
+                        <persName id="t17690112-9-victim145" type="victimName">
+                           Benjamin 
+                           Hopkins 
+                        <interp inst="t17690112-9-victim145" type="surname" value="Hopkins"></interp>
+                        <interp inst="t17690112-9-victim145" type="given" value="Benjamin"></interp>
+                        <interp inst="t17690112-9-victim145" type="gender" value="male"></interp>
+                     </persName>
+                      
+                  
+               
+                  </rs>, <rs id="t17690112-9-cd44" type="crimeDate">October 20</rs>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17690112-9-off38 t17690112-9-cd44"></join>
+                  <join result="offenceCrimeDate" targOrder="Y" targets="t17690112-9-off43 t17690112-9-cd44"></join>. ++</p>
+               <p>
+            
+                  <persName id="t17690112-9-person146">
+                  Benjamin 
+                  Hopkins 
+               <interp inst="t17690112-9-person146" type="surname" value="Hopkins"></interp>
+                     <interp inst="t17690112-9-person146" type="given" value="Benjamin"></interp>
+                     <interp inst="t17690112-9-person146" type="gender" value="male"></interp>
+                  </persName>
+            . I <rs id="t17690112-9-viclabel45" type="occupation">keep a shop</rs>
+                  <join result="persNameOccupation" targOrder="Y" targets="t17690112-9-victim145 t17690112-9-viclabel45"></join> near <placeName id="t17690112-9-crimeloc46">Cripple-gate</placeName>
+                  <interp inst="t17690112-9-crimeloc46" type="placeName" value="Cripple-gate"></interp>
+                  <interp inst="t17690112-9-crimeloc46" type="type" value="crimeLocation"></interp>
+                  <join result="offencePlace" targOrder="Y" targets="t17690112-9-off38 t17690112-9-crimeloc46"></join>
+                  <join result="offencePlace" targOrder="Y" targets="t17690112-9-off43 t17690112-9-crimeloc46"></join>. On the 20th of October the prisoner came to me, and wanted to look at some green tea. He agreed for twenty-four pounds, at 5 s. and 6 d. a pound, and ordered it to be marked 
+               <persName id="t17690112-9-person147">
+                  Matthew 
+                  Skinner 
+               <interp inst="t17690112-9-person147" type="surname" value="Skinner"></interp>
+                     <interp inst="t17690112-9-person147" type="given" value="Matthew"></interp>
+                     <interp inst="t17690112-9-person147" type="gender" value="male"></interp>
+                  </persName>
+            , at Doncaster in Yorkshire, to be sent to the Swan and two Necks, in Lad-Lane, and said, he would be at my house again in half an hour. It came to 7 l. 3 s. when he returned, he gave me this draft out of his pocket book. I was satisfied with it, thinking I knew the drawer. I gave him the remainder, which was 8 l. 11 s. and 6 d. then he went away. The draft was for 15 l. 14 s. and 6 d. I sent my servant to Mr. Fuller's, to see if it was a<xptr type="pageFacsimile" doc="176901120009"></xptr> good note before I sent the goods; he returned and told me, Mr. Fuller said there was no such man kept cash-there. The prisoner was taken two days after, at Sir 
+               <persName id="t17690112-9-person148">
+                  Richard 
+                  Glyn 
+               <interp inst="t17690112-9-person148" type="surname" value="Glyn"></interp>
+                     <interp inst="t17690112-9-person148" type="given" value="Richard"></interp>
+                     <interp inst="t17690112-9-person148" type="gender" value="male"></interp>
+                  </persName>
+            's. I saw him afterwards at Guildhall. (The bill produced in court.)</p>
+               <p>
+            
+                  <persName id="t17690112-9-person149">
+                  John 
+                  Vaughan 
+               <interp inst="t17690112-9-person149" type="surname" value="Vaughan"></interp>
+                     <interp inst="t17690112-9-person149" type="given" value="John"></interp>
+                     <interp inst="t17690112-9-person149" type="gender" value="male"></interp>
+                  </persName>
+            . This draft was presented at our house by a young man for payment, about the 20th of October, in the afternoon; who said, he came from Mr. Hopkins near Criplegate; I told him, no such person kept cash with us. When the prisoner was taken up, two days after, I went to Mr. Hopkins and told him of it. The bill read to this purport.</p>
+               <p>"To Mess. Fuller, Baker, and Halford, bankers,</p>
+
+               <p>"&amp;c. Oct. 19, 1768, pay to Mr. James</p>
+               <p>"Brown, or bearer, 15 l. 14 s. 6 d.</p>
+               <p>"G. Humphrys."</p>
+               <p>
+            
+                  <persName id="t17690112-9-person150">
+                  William 
+                  Saunders 
+               <interp inst="t17690112-9-person150" type="surname" value="Saunders"></interp>
+                     <interp inst="t17690112-9-person150" type="given" value="William"></interp>
+                     <interp inst="t17690112-9-person150" type="gender" value="male"></interp>
+                  </persName>
+            . When the prisoner was examined before Mr. Alderman Kennet, he owned he received one draft of Gompy, and the other of two men, named Bonner, snuff-makers; and said he had two pounds for his share for paying the bill away; he very much desired Gompy might be inquired after, and the constable was sent after him, but could not find him.</p>
+               <p>
+            
+                  <persName id="t17690112-9-person151">
+                  William 
+                  Geter 
+               <interp inst="t17690112-9-person151" type="surname" value="Geter"></interp>
+                     <interp inst="t17690112-9-person151" type="given" value="William"></interp>
+                     <interp inst="t17690112-9-person151" type="gender" value="male"></interp>
+                  </persName>
+             and George Washington gave the same evidence as on the other trial.</p>
+               <p>
+                  <rs id="t17690112-9-verdict47" type="verdictDescription">
+                     <interp inst="t17690112-9-verdict47" type="verdictCategory" value="notGuilty"></interp>
+               Acquitted
+            </rs>.</p>
+            </div1>

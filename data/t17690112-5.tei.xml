@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div1 type="trialAccount" id="t17690112-5">
+               <interp inst="t17690112-5" type="collection" value="BAILEY"></interp>
+               <interp inst="t17690112-5" type="year" value="1769"></interp>
+               <interp inst="t17690112-5" type="uri" value="sessionsPapers/17690112"></interp>
+               <interp inst="t17690112-5" type="date" value="17690112"></interp>
+               <join result="criminalCharge" id="t17690112-5-off19-c87" targOrder="Y" targets="t17690112-5-defend95 t17690112-5-off19 t17690112-5-verdict21"></join>
+               <join result="criminalCharge" id="t17690112-5-off19-c88" targOrder="Y" targets="t17690112-5-defend97 t17690112-5-off19 t17690112-5-verdict21"></join>
+               <join result="criminalCharge" id="t17690112-5-off19-c89" targOrder="Y" targets="t17690112-5-defend99 t17690112-5-off19 t17690112-5-verdict21"></join>
+         
+               <p>84, 85, 86. (M.) 
+               
+                  <persName id="t17690112-5-defend95" type="defendantName">
+                     John 
+                     Jones 
+                  <interp inst="t17690112-5-defend95" type="surname" value="Jones"></interp>
+                     <interp inst="t17690112-5-defend95" type="given" value="John"></interp>
+                     <interp inst="t17690112-5-defend95" type="gender" value="male"></interp>
+                  </persName>
+                
+            , 
+               
+                  <persName id="t17690112-5-defend97" type="defendantName">
+                     Joseph 
+                     Witchcraft 
+                  <interp inst="t17690112-5-defend97" type="surname" value="Witchcraft"></interp>
+                     <interp inst="t17690112-5-defend97" type="given" value="Joseph"></interp>
+                     <interp inst="t17690112-5-defend97" type="gender" value="male"></interp>
+                  </persName>
+                
+            , and 
+               
+                  <persName id="t17690112-5-defend99" type="defendantName">
+                     William 
+                     Dickes 
+                  <interp inst="t17690112-5-defend99" type="surname" value="Dickes"></interp>
+                     <interp inst="t17690112-5-defend99" type="given" value="William"></interp>
+                     <interp inst="t17690112-5-defend99" type="gender" value="male"></interp>
+                  </persName>
+                
+            , were indicted for <rs id="t17690112-5-off19" type="offenceDescription">
+                     <interp inst="t17690112-5-off19" type="offenceCategory" value="theft"></interp>
+                     <interp inst="t17690112-5-off19" type="offenceSubcategory" value="burglary"></interp>
+               breaking and entering the dwelling house of 
+                     
+                        <persName id="t17690112-5-victim101" type="victimName">
+                           Henry 
+                           Landaway 
+                        <interp inst="t17690112-5-victim101" type="surname" value="Landaway"></interp>
+                        <interp inst="t17690112-5-victim101" type="given" value="Henry"></interp>
+                        <interp inst="t17690112-5-victim101" type="gender" value="male"></interp>
+                        <join result="offenceVictim" targOrder="Y" targets="t17690112-5-off19 t17690112-5-victim101"></join>
+                     </persName>
+                      
+                  , on the <rs id="t17690112-5-cd20" type="crimeDate">16th of December</rs>
+                     <join result="offenceCrimeDate" targOrder="Y" targets="t17690112-5-off19 t17690112-5-cd20"></join>, about the hour of three in the night, and stealing eighty pounds weight of beef, value 20 s. and thirty-two pounds weight of mutton, value 10 s. the property of the said Henry, in his dwelling-house
+            </rs>. +</p>
+               <p>There was no evidence to the fact but 
+               <persName id="t17690112-5-person102">
+                  Joseph 
+                  Christian 
+               <interp inst="t17690112-5-person102" type="surname" value="Christian"></interp>
+                     <interp inst="t17690112-5-person102" type="given" value="Joseph"></interp>
+                     <interp inst="t17690112-5-person102" type="gender" value="male"></interp>
+                  </persName>
+            , an accomplice.</p>
+               <p>They were all three <rs id="t17690112-5-verdict21" type="verdictDescription">
+                     <interp inst="t17690112-5-verdict21" type="verdictCategory" value="notGuilty"></interp>
+               acquitted
+            </rs>.</p>
+            </div1>
