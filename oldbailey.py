@@ -3,14 +3,11 @@ from bs4 import BeautifulSoup
 from collections import Counter
 import os, os.path
 
-
-
 def parse(filename):
+    # { defendants }, { charges }, { verdict }
     with open(filename,'rb') as xml_file:
         data = xml_file.read()
     soup = BeautifulSoup(data)
-    formatted = ""
-    # { defendants }, { charges }, { verdict }
     
     # ---------- Defendants
     defendants = []
@@ -18,9 +15,8 @@ def parse(filename):
         defandantText = defendant.find(type='surname')['value'] + ", " + defendant.find(type='given')['value']
         # Insert politically corrent other answers
         defendants.append(defandantText);
-    formatted += '; '.join(defendants)
+    formatted = '; '.join(defendants)
     
-    formatted += " - "
     # ---------- Offenses
     offenses = []
     for charge in soup.find_all(type="offenceDescription"):
@@ -29,8 +25,9 @@ def parse(filename):
             offenseText += " > " + charge.find(type='offenceSubcategory')['value']
         offenses.append(offenseText)
         
-    formatted += count_offenses(offenses)
+    formatted += " - " + count_offenses(offenses)
     
+    # ---------- Verdict
     for verdict in soup.find_all(type='verdictDescription'):
         verdictText = verdict.find(type='verdictCategory')['value']
         
